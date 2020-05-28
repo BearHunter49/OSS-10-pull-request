@@ -14,3 +14,5 @@ master에 merge하고
 또 다른 1명이 branch 생성 ,코드 수정, pull request -> 다른사람이 merge
 
 의 방식을 하시면됩니다.
+
+
