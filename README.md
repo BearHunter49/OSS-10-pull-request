@@ -5,3 +5,4 @@
 다른 사람의 branch에 merge하는 실습입니다.
 (이 때 해당 branch의 주인에게 pull request가 갑니다)
 
++김광원
